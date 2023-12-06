@@ -1,0 +1,66 @@
+.sezioneprincipale{
+    background-image: url('background.jpeg');
+    height: 100vh;
+    background-size: cover;
+    padding-top: 100px;
+}
+
+.sottosezione1{
+    border-radius: 20px;
+    width: 50%;
+    background-color: black;
+    opacity: 0.5;
+    margin: auto;
+    padding: 70px;
+    text-align: center;
+}
+
+.immagine1{
+    width: 30%;
+    display: block;
+    margin: auto;
+}
+
+.titolo{
+    color: greenyellow;
+}
+
+.div1{
+    background-color: greenyellow;
+    width: 100%;
+    padding: 5px;
+}
+
+.div2{
+    margin-left: 0;
+}
+
+.monopattino{
+    display: flex;
+}
+
+.info1{
+    color: white;
+    text-align: start;
+}
+
+.carica1{
+    width: 50%;
+    background-color: orange;
+    height: 20px;
+    border-radius: 5px;
+}
+
+.carica2{
+    width: 80%;
+    background-color: greenyellow;
+    height: 20px;
+    border-radius: 5px;
+}
+
+.carica3{
+    width: 30%;
+    background-color: red;
+    height: 20px;
+    border-radius: 5px;
+}
